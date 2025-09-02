@@ -84,4 +84,4 @@ User Convenience: A one-stop weather hub, replacing the need to check multiple s
 
 7. Screenshots / Demos
 
-(To be added by you as per your dashboard visuals.)
+https://github.com/MaheshKumar434oc/weather-dashoard/blob/main/weather%20report%20image.png
